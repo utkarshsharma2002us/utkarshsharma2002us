@@ -99,7 +99,8 @@
 
 - 💼 LinkedIn: https://linkedin.com/in/utkarsh-sharma-8b0365238  
 - 📧 Email: uditsharma1508@gmail.com  
-- 💻 GitHub: https://github.com/utkarshsharma2002us  
+- 💻 GitHub: https://github.com/utkarshsharma2002us
+- 😎 Portfolio: https://utkarshsharma2002us.github.io
 
 ---
 
